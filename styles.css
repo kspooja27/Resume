@@ -1,0 +1,59 @@
+
+.one {
+  text-align: center;
+  box-sizing: content-box;
+  font-family: 'Kaushan Script', cursive;
+  height: 100vh;
+}
+
+.maindiv {
+  padding : 25vh;
+}
+h1 {
+  text-align: center;
+
+}
+
+h1,h2 {
+  color: #4d3e3e;
+}
+h3{
+  color: #ff926b;
+}
+
+#dp {
+  border-radius: 100%;
+  width: 150px;
+}
+
+.about-section {
+
+  margin: 70px;
+}
+
+.education {
+  background-color: #fff3cd;
+  padding: 40px;
+}
+.navbar {
+background-color: #4d3e3e;
+}
+
+.skills {
+
+}
+.no-bullets {
+  list-style-type: none;
+  font-size: 20px;
+}
+.checked {
+  color: orange;
+}
+
+.page-footer {
+  background-color: #4d3e3e;
+}
+
+.footer-copyright {
+  color: #fff;
+}
